@@ -1,2 +1,3 @@
-# proy1_aboutme
-First project on the ESAT's UX/UI and webdev masters (About me page)
+# Project 1: About me
+
+First project for ESAT's Interactive Digital Development Design (ID3) Postgraduate course.
